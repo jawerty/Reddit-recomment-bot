@@ -1,2 +1,4 @@
 secret
 password.py
+*.pyc
+*.txt
